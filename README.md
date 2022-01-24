@@ -127,7 +127,7 @@ a qualidade da aplicação;
 
 Depois da fase de imersão, teremos um desafio e apenas os campers que mais se destacarem participarão.
 Seremos avaliados ao longo de toda a fase de imersão. Analisados desempenho técnico de cada um, 
-o engajamento, presença e muito mais
+o engajamento, presença e muito mais.
  <hr>
  </div>
     
