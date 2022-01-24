@@ -2,11 +2,14 @@
 <h3>Camp <a href="https://ioasys.com.br/">Ioasys</a> - Android | <a href="https://developer.android.com/">Kotlin</a></h3>
 
 
-<p algn="center">
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87238842/150869832-6abb58ea-8a49-4f1a-8b2a-20b1fa99dec0.gif)
+<div align="center">
 
-</p>
+<img src="https://user-images.githubusercontent.com/87238842/150869832-6abb58ea-8a49-4f1a-8b2a-20b1fa99dec0.gif"/>
+ </div>
+
+ 
+
 
 <hr>
 
