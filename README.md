@@ -1,7 +1,7 @@
 
 <h3>Camp <a href="https://ioasys.com.br/">Ioasys</a> - Android | <a href="https://developer.android.com/">Kotlin</a></h3>
 
-<img src="https://user-images.githubusercontent.com/87238842/150865620-d6d9faa6-89f1-42f6-9294-44437a3b9911.png">
+<img src="https://user-images.githubusercontent.com/87238842/150866267-838ff683-a01d-4ef0-91a9-373eea946129.png">
 
 <hr>
 
