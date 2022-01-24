@@ -15,7 +15,7 @@
 <div align="center">
 <hr>
 
-<h4>Imersão: O que é o Camp? ✅ </h3>
+<h4>Imersão: O que é o Camp?  </h3>
 
 Camp é um programa de formação completo e conta com conteúdos imersivos, talks, desafios
 práticos, mentorias e muito mais. Objetivo é auxiliar na formação de profissionais prontos para encarar o mercado. Combinando
@@ -28,7 +28,7 @@ No total, são mais de 50 horas de aprendizado intenso, com interação virtual 
 <div align="center">
 <hr>
 
-<h3>Ioasys: O que é? ✅ </h3>
+<h3>Ioasys: O que é?  </h3>
 
 A ioasys faz parte do Grupo Alpargatas,
 uma empresa centenária, global e inovadora.
