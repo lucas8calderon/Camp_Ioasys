@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Senha">Senha</string>
+    <string name="Books">Books</string>
+    <string name="Email">Email</string>
+    <string name="Entrar">Entrar</string>
+    <string name="TODO">TODO</string>
+    <string name="Email_e_ou_senha_incorretos">Email e/ou senha incorretos.</string>
+</resources>
