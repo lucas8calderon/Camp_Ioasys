@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/drawable/bg_gray_with_corner.xml" value="0.35625" />
         <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/drawable/bg_input.xml" value="0.35625" />
         <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/drawable/ic_logo.xml" value="0.35625" />
+        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/drawable/ic_search.xml" value="0.35625" />
+        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/font/heebo.xml" value="0.37447916666666664" />
         <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/activity_book_list.xml" value="0.33" />
         <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/custom_search_input.xml" value="0.3359375" />
+        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/bg_gray_with_corner.xml" value="0.3359375" />
+        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/book_item.xml" value="0.3359375" />
+        <entry key="..\:/Projetos-Android/Camp_Ioasys/app/src/main/res/layout/custom_search_input.xml" value="0.33" />
       </map>
     </option>
   </component>
