@@ -5,30 +5,31 @@
     android:id="@+id/materialCardView"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:elevation="20dp"
     android:layout_marginHorizontal="16dp"
     android:layout_marginVertical="4dp"
+    android:background="@android:color/white"
+    android:backgroundTint="@color/white"
     android:clickable="true"
+    android:elevation="20dp"
     android:focusable="true"
     android:longClickable="false"
-    android:background="@android:color/white"
-    app:cardCornerRadius="4dp"
-    android:backgroundTint="@color/white">
+    app:cardCornerRadius="4dp">
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginBottom="19dp"
-        android:layout_marginTop="0dp">
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="19dp">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imgBookView"
             android:layout_width="81dp"
             android:layout_height="122dp"
-            android:layout_marginTop="19dp"
             android:layout_marginStart="16dp"
+            android:layout_marginTop="19dp"
+            android:background="@drawable/img_book"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            android:background="@drawable/img_book"/>
+            app:layout_constraintTop_toTopOf="parent" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvTitleBook"
@@ -40,7 +41,7 @@
             android:textSize="14sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="Crossing the Chasm"/>
+            tools:text="Crossing the Chasm" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/txtAuthorName"
@@ -63,8 +64,8 @@
             android:layout_marginBottom="40dp"
             android:textColor="#999999"
             android:textSize="12sp"
-            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="@id/imgBookView"
+            app:layout_constraintStart_toStartOf="parent"
             tools:text="150 páginas" />
 
         <androidx.appcompat.widget.AppCompatTextView
@@ -76,9 +77,9 @@
             android:fontFamily="@font/heebo"
             android:textColor="#999999"
             android:textSize="12sp"
-            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="@id/imgBookView"
-            tools:text="Editora Loyola"/>
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Editora Loyola" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvPublished"
@@ -89,8 +90,8 @@
             android:fontFamily="@font/heebo"
             android:textColor="#999999"
             android:textSize="12sp"
-            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="@id/imgBookView"
+            app:layout_constraintStart_toStartOf="parent"
             tools:text="Publicado em 2020" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
