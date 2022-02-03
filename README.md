@@ -107,7 +107,7 @@ Integrar o aplicativo com o backend utilizando REST com retrofit;
 
  <hr>
  
- <h4>Semana #04  (31 de janeiro até 4 de fevereiro) :clock10: </h4>
+ <h4>Semana #04  (31 de janeiro até 4 de fevereiro)✅ </h4>
 
 * Modulo #09 | Camada de apresentação 
 * Modulo #10 | Camada de repositório
